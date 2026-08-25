@@ -1,7 +1,7 @@
-# Nodal Cold Email Series — SMB B2B SaaS (10–1,000 Employees)
+# Nodal Cold Email Series — B2B SaaS & B2C ($5M–$100M+ ARR)
 
-**Brand:** Nodal Customer Experience (nodal.cx)
-**Target:** VP/Head of Marketing, Growth, or RevOps at SMB B2B SaaS companies
+**Brand:** Nodal (nodal.cx) — marketing operations and data enablement consultancy
+**Target:** VP/Head of Marketing, Growth, RevOps, or Marketing Ops at B2B SaaS companies ($5M–$100M+ ARR) or B2C businesses running multiple martech platforms
 **Cadence:** Day 0 → Day 3 → Day 7 → Day 14
 **Voice:** Succinct, confident, warm, methodologically precise. No false urgency.
 
@@ -9,31 +9,29 @@
 
 ## Email 1 — The Problem (Day 0)
 
-**Subject line:** Your trial-to-paid emails are probably calendar-based
+**Subject line:** More martech than your data can actually support
 
 **Body:**
 
 {{First name}},
 
-Most B2B SaaS teams I talk to are sending lifecycle emails on a schedule — day 1, day 3, day 7 — regardless of what the user has actually done in the product.
+Most marketing teams I talk to have more tooling than ever — CRM, enrichment, attribution, automation — but the systems don't talk to each other. Data sits in silos, and all that platform investment never turns into leverage.
 
-The result: users who've already activated get nudged to do things they've done. Users who are stuck get the same generic sequence as everyone else. Conversion doesn't improve because the emails aren't responding to behavior.
+We're Nodal — a marketing operations and data enablement consultancy. We build the integrations, CRM architecture, and tracking models that let a team actually use the data it's already paying for: connecting platforms, enriching leads, configuring CRM automation in HubSpot or Salesforce, and designing the tracking taxonomy that makes reporting trustworthy.
 
-We build lifecycle marketing systems that trigger on what users actually do — activation milestones, feature adoption gaps, expansion signals — and connect your CRM data to personalized messaging across email, in-app, and ad channels.
-
-15 years of doing this across B2B GTM, B2C2B nurture, and B2C repurchase — now with AI-native automation that turns structured CRM data into personalized output at scale.
+Senior practitioners do the work directly — no account manager relaying to a junior team. We bring marketing and technical fluency together, favor minimal viable architecture over rebuild-everything projects, and use AI where it measurably reduces manual work, not because it's trendy.
 
 Worth a 20-minute call to see if there's a fit?
 
-Shelwil
-Nodal Customer Experience
+Shelby Ahern
+Nodal
 nodal.cx
 
 ---
 
 ## Email 2 — The Insight (Day 3)
 
-**Subject line:** The behavioral trigger most SaaS teams miss
+**Subject line:** Your lead score probably isn't scoring the right thing
 
 **Body:**
 
@@ -41,48 +39,46 @@ nodal.cx
 
 Quick follow-up with something specific.
 
-The highest-leverage lifecycle trigger for most B2B SaaS products isn't "trial day 7" or "hasn't logged in." It's the gap between the activation milestone your team thinks matters and the one that actually predicts conversion.
+Most lead scoring models are built once and never revisited — and the biggest gap we see isn't the scoring logic itself, it's that persona data never gets folded in. On one recent project, adding persona signals to an existing model took correlation with closed revenue from noise to 1.8x — same leads, same CRM, just a model that actually reflected who was buying.
 
-We see this constantly: the onboarding checklist says "invite a teammate," but the data shows the real inflection point is "complete a second workflow" or "connect a third integration." Calendar-based sequences can't distinguish between these — they treat every trial user the same.
+That's a data architecture problem before it's a marketing problem. We map what's flowing between your CRM, enrichment sources, and ad platforms, backtest scoring changes against actual revenue before you commit to them, and only then touch the workflow.
 
-What we do at Nodal is map behavioral signals from your CRM and product data, identify which actions actually predict conversion, and build closed-loop systems that nudge users toward those specific milestones — then measure whether the nudge moved the number.
+On a similar engagement, backtested lead scores identified top-tier leads worth 30% more in expected value than random triage — validated against closed revenue, not assumed.
 
-Not a campaign. A system that adapts.
+If your lead scoring hasn't been backtested against what actually closed, that's usually the first place worth looking. Happy to walk through what that diagnostic looks like.
 
-If your lifecycle emails are driving less than 15% of trial-to-paid conversions, there's likely a signal gap worth closing. Happy to walk through what that diagnostic looks like.
-
-Shelwil
-Nodal Customer Experience
+Shelby Ahern
+Nodal
 nodal.cx
 
 ---
 
 ## Email 3 — The Method (Day 7)
 
-**Subject line:** How we approach lifecycle marketing differently
+**Subject line:** How we approach marketing data differently
 
 **Body:**
 
 {{First name}},
 
-One more thought, since I know lifecycle marketing pitches all sound the same.
+One more thought, since I know "we fix your data" pitches all sound the same.
 
-Here's what makes Nodal's approach different from hiring an email agency or adding another Marketo workflow:
+Here's what makes Nodal's approach different from a generalist agency or another martech vendor:
 
-**We start with your data, not your content.** Before writing a single email, we map the behavioral signals in your CRM and product analytics that actually predict activation, conversion, and expansion. The messaging follows the data — not the other way around.
+**We start with your architecture, not a campaign.** Before touching automation or reporting, we map how data actually moves between your CRM, enrichment tools, and ad platforms — and where it breaks. The build follows the map.
 
-**Behavioral triggers, not calendar sends.** Every touchpoint fires based on what a user did or didn't do — not because it's "day 5." If someone activates in 2 hours, they skip the activation sequence and enter the expansion track. If someone stalls on step 3, they get help with step 3.
+**Minimal viable architecture, not a rebuild.** We'd rather fix the three integrations that are actually broken than re-platform your whole stack. Simpler systems are easier for your team to own after we're gone.
 
-**AI-native automation at scale.** We connect your CRM data and workflow platforms to LLMs that generate personalized messaging — subject lines, body copy, in-app prompts — tailored to each user's context. Not a template with a {{first name}} merge tag. Actual personalization.
+**Senior practitioners, hands-on.** The people scoping the work build it. No handoff to junior implementation staff.
 
-**Closed-loop measurement.** We track downstream conversion, not just opens and clicks. If a nudge sequence doesn't move trial-to-paid or net revenue retention, we know within weeks and adjust.
+**AI where it measurably helps.** On one recent account-enrichment project, we built an automated workflow with AI-assisted scoring and a human review step — 12% increase in marketing-sourced pipeline, 70% fewer manual hours. The AI didn't replace judgment; it removed the repetitive part of it.
 
-This is what 15 years of lifecycle marketing experience looks like when it's paired with modern automation. I'd like to show you how it applies to your product.
+Engagements run as project-based work or an ongoing retainer, following a Scope → Design → Build → Deliver process — you know what you're getting before we start building.
 
-Open to a short conversation?
+I'd like to show you how it applies to your stack. Open to a short conversation?
 
-Shelwil
-Nodal Customer Experience
+Shelby Ahern
+Nodal
 nodal.cx
 
 ---
@@ -95,21 +91,21 @@ nodal.cx
 
 {{First name}},
 
-I'll keep this short — I've sent a few notes about how Nodal helps B2B SaaS teams rebuild their lifecycle marketing around behavioral signals instead of calendar schedules.
+I'll keep this short — I've sent a few notes about how Nodal helps marketing teams fix the data architecture underneath their martech stack.
 
 If the timing isn't right, no worries at all. But if any of these sound familiar, it's probably worth a conversation:
 
-- Trial-to-paid conversion has plateaued and you're not sure which emails are actually helping
-- Your onboarding sequence hasn't been meaningfully updated since it was first built
-- You have CRM and product data that could drive smarter messaging, but nobody's wired it up
-- You're considering hiring a lifecycle marketing lead but want to validate the strategy first
+- Your CRM (HubSpot or Salesforce) has automation and orchestration that grew ad hoc and nobody fully trusts anymore
+- Your lead scoring hasn't been backtested against actual closed revenue
+- Reporting takes manual pulls across disconnected tools instead of one trustworthy tracking model
+- You're considering a marketing ops hire but want the architecture validated first
 
-We work as a consulting partner — not an agency retainer. We build the system, validate it works, and hand it off or keep optimizing. Either way, you get a lifecycle marketing engine grounded in your actual user behavior.
+We work project-based or as an ongoing retainer — without the overhead of a full agency engagement. Senior practitioners scope and build the work directly, and we're deliberate about keeping the resulting architecture no more complex than it needs to be.
 
-If any of that resonates, I'm at shelwil@nodal.cx. Happy to do a 20-minute diagnostic call — no pitch deck, just a look at your current lifecycle data and where the gaps are.
+If any of that resonates, I'm at hello@nodal.cx, or you can grab time directly: https://calendar.app.google/jzNWPjDMMmVquzAw7. Happy to do a 20-minute diagnostic — no pitch deck, just a look at your current data flow and where the gaps are.
 
-Shelwil
-Nodal Customer Experience
+Shelby Ahern
+Nodal
 nodal.cx
 
 ---
@@ -117,15 +113,15 @@ nodal.cx
 ## Series Notes
 
 **Personalization guidance:**
-- Research the prospect's product before sending. Reference their specific trial flow, onboarding, or a publicly visible lifecycle email if possible (adds specificity and shows homework).
-- If you can identify their marketing stack (HubSpot, Customer.io, Braze, etc.), mention it in Email 2 or 3 — it demonstrates you understand their infrastructure.
+- Research the prospect's martech stack before sending — if you can identify their CRM (HubSpot vs. Salesforce), enrichment tools, or attribution setup, reference it directly in Email 2 or 3. It signals you understand their actual infrastructure, not a generic pitch.
+- Where possible, reference a specific gap visible from the outside (e.g., inconsistent UTM tagging, a lead form that doesn't route to their CRM cleanly) — adds specificity and shows homework.
 
 **Opt-out / compliance:**
 - All emails must include a compliant unsubscribe mechanism per CAN-SPAM / GDPR.
 - Include Nodal's physical mailing address in the footer.
 
 **A/B testing candidates:**
-- Email 1 subject: test "Your trial-to-paid emails are probably calendar-based" vs. "What triggers your onboarding emails?"
+- Email 1 subject: test "More martech than your data can actually support" vs. "Is your CRM data trustworthy enough to act on?"
 - Email 4 subject: test "Last note on this" vs. "Closing the loop"
 - Email 1 CTA: test "20-minute call" vs. "quick diagnostic" framing
 
