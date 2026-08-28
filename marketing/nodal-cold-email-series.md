@@ -36,21 +36,19 @@ nodal.cx
 ## Email 2 — New Angle (Day 4)
 
 **Framework:** Question → Value → Ask (QVA)
-**Subject line:** your lead scoring
+**Subject line:** your tracking setup
 
 **Body:**
 
 {{First name}},
 
-Quick question: when was your lead-scoring model last checked against what actually closed?
+Quick question: is your team running server-side tracking on Meta and Google, or are your campaigns still relying on browser-side pixels alone?
 
-Most aren't. We see it constantly — a model built once, personas never folded in, scores that quietly drift from reality. On one engagement, adding persona data to an existing model took its correlation with closed revenue from noise to 1.8x, using the same leads and the same CRM.
+Meta's own benchmark from April 2026 puts the difference at 17.8% — advertisers with Conversions API active saw cost per result nearly a fifth lower than those without. Google's Conversion Lift Analysis (99 studies, April 2024–2025) found an 8% incremental ROAS on Search for advertisers sending first-party conversion data.
 
-That's a data architecture fix, not a rebuild. We map what's actually flowing between your CRM and enrichment sources before touching the scoring logic, and we backtest every change against revenue before you commit to it.
+Those aren't projections — they're platform-published numbers from controlled analyses. And the lift comes from how the data reaches the ad platform, not from changing the campaign itself. It's a data-architecture fix.
 
-If your model hasn't been checked this year, that's usually the first place worth looking.
-
-Worth 15 minutes to walk through what that check looks like?
+If your team is looking for a marketing data ops partner to get CAPI and Enhanced Conversions implemented cleanly — or to audit whether your current setup is actually matching at the quality score the platforms reward — worth a 15-minute call?
 
 Shelby Ahern
 Nodal
@@ -155,13 +153,13 @@ Per the `cold-email` skill's own instruction ("Run it on every drafted sequence 
 | Email | Subject | Word count | CTA | Personalization | Score |
 |---|---|---|---|---|---|
 | 1 — First Touch | your data stack | 127 | ✅ clear | 3.9% | 93/100 🟢 |
-| 2 — New Angle | your lead scoring | 124 | ✅ clear | 3.2% | 93/100 🟢 |
+| 2 — New Angle | your tracking setup | 145 | ✅ clear | 9.0% | 100/100 🟢 |
 | 3 — Value Add | a quick benchmark | 92 | ✅ clear | 4.3% | 93/100 🟢 |
 | 4 — Direct Question | quick question | 46 | ✅ clear | 8.7% | 100/100 🟢 |
 | 5 — Reverse | right contact | 65 | ✅ clear | 6.2% | 100/100 🟢 |
 | 6 — Breakup | last note | 79 | ✅ clear | 5.1% | 100/100 🟢 |
 
-**Sequence overall: 96/100 🟢 Strong.** No email fell below the skill's 70-point rewrite threshold; no spam-trigger words, dead openers, or weak CTAs detected in any email. Emails 1–3 came in slightly under the skill's 5% personalization-density guideline (3.2–4.3%) — acceptable given this is unsegmented template copy rather than a 1:1 personalized send; see personalization guidance below for what to add per-send.
+**Sequence overall: 97/100 🟢 Strong.** No email fell below the skill's 70-point rewrite threshold; no spam-trigger words, dead openers, or weak CTAs detected in any email. Emails 1 and 3 came in slightly under the skill's 5% personalization-density guideline (3.9–4.3%) — acceptable given this is unsegmented template copy rather than a 1:1 personalized send; see personalization guidance below for what to add per-send.
 
 ---
 
